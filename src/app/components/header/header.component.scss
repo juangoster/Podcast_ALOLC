@@ -1,0 +1,21 @@
+$total: 16.666%;
+$colorBackPrincipal: #484848;
+$colorHighlight: #F09308;
+$colorBackSec: #D1D4D8;
+$colorTxtSec: #02778A;
+
+.menu{
+    width: $total;
+    fa-icon{
+        width: 100%;
+        font-size: 25px;
+        color: $colorBackPrincipal;
+    }
+}
+.title{
+    width: $total * 4;
+}
+.prueba{
+    background-color: $colorBackSec;
+    color: $colorBackPrincipal;
+}

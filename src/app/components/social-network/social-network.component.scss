@@ -1,0 +1,13 @@
+$colorBackPrincipal: #484848;
+$colorBackSec: #D1D4D8;
+.social{
+    color:$colorBackPrincipal;
+    background-color: $colorBackSec;
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.25));
+}
+.socialIcons{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    font-size: 20px;
+}

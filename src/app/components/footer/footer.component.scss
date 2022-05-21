@@ -1,0 +1,29 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    color: #484848;
+    fa-Icon{
+        color: #F09308;
+        font-size: 2rem;
+        margin: 0;
+        padding: 0;
+    }
+    span{
+        font-size: 10;
+        color: #02778A;
+    }
+}
+.pie{
+    display: flex;
+    width: 100%;
+    align-items: center;
+
+    p{
+        margin: auto;
+        padding-top: 5px;
+    }
+}
